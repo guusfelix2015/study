@@ -15,6 +15,8 @@ console.log("===========================");
 
 let numberUseUnshift = [1, 2, 3, 4];
 
-numberUseUnshift.unshift(-1)
+numberUseUnshift.unshift(-1);
 
-console.log(numberUseUnshift)
+console.log(numberUseUnshift);
+
+console.log("=========================");
